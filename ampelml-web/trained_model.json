@@ -1,0 +1,1 @@
+{"model_class": "<class 'ampelml.models.train_astrorapid.RAPIDModel'>", "training_timestamp": "20200518_203204914035", "input_dataset_name": "rcf_marshallc_sncosmo_200114.pkl", "input_dataset_hash": "67dedb3b700c074c3db95a72e425d324", "training_set_size": 4578, "output_model_name": "keras_model.hdf5", "output_model_hash": "65722db77d85d9e2e5096eceab95cfd2"}
